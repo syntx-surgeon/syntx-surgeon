@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syntx-surgeon&show_icons=true&locale=en" alt="syntx-surgeon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syntx-surgeon&" alt="syntx-surgeon" /></p>
+
+
+  ![snake gif](https://github.com/syntx-surgeon/syntx-surgeon/blob/output/snake.svg)
+ 
